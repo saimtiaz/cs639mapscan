@@ -1,3 +1,24 @@
+# Project Proposal
+This is a project
+
+## Overview
+Maps currently available on the Internet like Google Maps, Bing Maps or Mapbox do not have a lot of detail about the terrain or land usage (farms, forests, type of vegetation, biomes, etc). They usually separate the areas in either urban (gray), rural/forests (green), or water (blue), like in the following image:
+
+
+## Project Outline
+### Current State of the Art
+
+### Approach
+
+### Evaluation
+
+### Timeline
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/saimtiaz/cs639mapscan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
